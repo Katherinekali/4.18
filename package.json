@@ -1,0 +1,22 @@
+{
+  "name": "4.18",
+  "version": "1.0.0",
+  "description": "4.18日考",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klf960421/4.18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klf960421/4.18/issues"
+  },
+  "homepage": "https://github.com/klf960421/4.18#readme",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  }
+}
